@@ -1,0 +1,2 @@
+bug_id,bug_severity,priority,op_sys,assigned_to,bug_status,resolution,short_desc
+4,critical,High,Windows,devanshii1@gmail.com,NEW,---,add item in cart when not logged in.
